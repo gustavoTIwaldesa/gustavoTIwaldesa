@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-   Full Stack Developer with a strong foundation in C# and .NET Core. Currently working at Waldesa Oficial as an IT Support Specialist, where I’m expanding my skills in software development and exploring modern programming practices. Driven by curiosity and committed to continuous learning.
+  Desenvolvedor Full Stack com foco em C# e .NET Core. Atualmente atuando como Suporte Técnico de T.I na empresa Waldesa Oficial, onde venho aprimorando meus conhecimentos em programação e desenvolvimento de software. Movido pela curiosidade e comprometido com a evolução contínua.
 </p>
 
 <p align="left">
