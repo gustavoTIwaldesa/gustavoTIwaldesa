@@ -1,26 +1,29 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-<p align="left"> 
-  Desenvolvedor Full Stack com foco em C# e .NET Core. Atualmente atuando como Suporte Técnico de T.I na empresa Waldesa Oficial, onde venho aprimorando meus conhecimentos em programação e desenvolvimento de software. Movido pela curiosidade e comprometido com a evolução contínua.
-</p>
+# 👋 Olá, eu sou Gustavo Henrique
 
-<p align="left">
- 🌐  Linguagens: **C# | .NET | SQL.**
-</p>
+## 💼 Perfil Profissional
 
-<p align="left">
-  💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
-</p>
+- 💻 Estudante de Programação
+- 🏢 Aprendendo e Crescendo Profissionalmente na Waldesa
 
-<p align="left">
-  <a href="#" title="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
-  <a href="#" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
-  <a href="#" title="WhatsApp">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP" alt="WhatsApp"/></a>
-  <a href="#" title="Facebook">
-  <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=LINK-DO-SEU-FACEBOOK" alt="Facebook"/></a>
-  <a href="#" title="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM" alt="Instagram"/></a>
-</p>
+## 🚀 Habilidades
+
+Aqui estão algumas das linguagens de programação e tecnologias que estou aprendendo:
+
+## 👨‍💻 Linguagens: 
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,html,css)](https://skillicons.dev)
+
+## 🧰 Frameworks: 
+[![My Skills](https://skillicons.dev/icons?i=dotnet,cs)](https://skillicons.dev)
+
+## ⚙️ Ferramentas:
+[![My Skills](https://skillicons.dev/icons?i=git,github,visualstudio,vscode)](https://skillicons.dev)<br><br>
+
+## 📫 Contato
+
+![Gmail Badge](https://img.shields.io/badge/-{suporteti4@waldesa.com.br}-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:{suporteti4@waldesa.com.br})
+[![Linkedin: Gustavo Henrique](https://img.shields.io/badge/-ellendias-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustahenriq/)](https://www.linkedin.com/in/gustahenriq/)
+
+
+✉️ Se quiser trocar ideias, colaborar ou apenas bater um papo sobre tecnologia, estou à disposição — entre em contato!
