@@ -8,10 +8,9 @@ Desenvolvedor apaixonado por tecnologia, design limpo e soluções eficientes.
 
 ### 🧠 Sobre mim
 
-- 🎓 Formado em [Seu Curso] pela [Sua Universidade]
-- 💼 Atualmente trabalhando com [Tecnologias ou Empresa]
-- 🌱 Aprendendo: `TypeScript`, `Next.js`, `IA aplicada`
-- 🛠️ Stack favorita: `React`, `Node.js`, `TailwindCSS`
+- 💼 Atualmente trabalhando na [Waldesa Oficial]
+- 🌱 Aprendendo: `C#`, `.NET Core`, `SQL`
+- 🛠️ Stack favorita: `C#`, `.NET CORE`, `Design UI/UX`
 - 🎯 Foco em performance, acessibilidade e boas práticas
 
 ---
@@ -19,7 +18,7 @@ Desenvolvedor apaixonado por tecnologia, design limpo e soluções eficientes.
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=graywhite&hide_title=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gustavoTIwaldesa&show_icons=true&theme=graywhite&hide_title=true" alt="GitHub Stats" />
 </p>
 
 ---
@@ -34,8 +33,7 @@ Desenvolvedor apaixonado por tecnologia, design limpo e soluções eficientes.
 
 ### 📫 Contato
 
-- 💌 [seuemail@email.com](mailto:seuemail@email.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/seuusuario)
+- 💼 [LinkedIn](https://www.linkedin.com/in/gustavohenriq)
 - 🌐 [Portfólio](https://seusite.com)
 
 ---
