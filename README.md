@@ -14,7 +14,7 @@
 
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-![C#](https://img.shields.io/badge/-cs%20Native-333333?style=flat&logo=cs)
+![C#](https://img.shields.io/badge/-csharp%20Native-333333?style=flat&logo=cssharp)
 ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 
