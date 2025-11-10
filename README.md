@@ -1,4 +1,3 @@
-![](https://komarev.com/ghpvc/?username=iuricode&color=006bed)
 
 ## Sobre mim
 
@@ -6,6 +5,8 @@
 - 🎓 Estudando {seu curso} no {faculdade}.
 - 💼 Trabalhando como {stack em que você trabalhar} na {empresa}.
 - 🌱 Aprendendo mais sobre {tecnologias que você está aprendendo}.
+
+![](https://komarev.com/ghpvc/?username=gustavoTIwaldesa&color=006bed)
 
 ## Minhas Skills
 
