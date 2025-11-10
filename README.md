@@ -1,15 +1,11 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  💼 Full Stack Developer with a strong foundation in C# and .NET Core. Currently working at Waldesa Oficial as an IT Support Specialist, where I’m expanding my skills in software development and exploring modern programming practices. Driven by curiosity and committed to continuous learning.
+   Full Stack Developer with a strong foundation in C# and .NET Core. Currently working at Waldesa Oficial as an IT Support Specialist, where I’m expanding my skills in software development and exploring modern programming practices. Driven by curiosity and committed to continuous learning.
 </p>
 
 <p align="left">
-  🦄 Linguagens: **C# | .NET | SQL.**
-</p>
-
-<p align="left">
-  💼 Ferramentas: **Visual Studio.**
+ 🌐  Linguagens: **C# | .NET | SQL.**
 </p>
 
 <p align="left">
