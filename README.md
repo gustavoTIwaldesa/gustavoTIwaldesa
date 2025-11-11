@@ -1,8 +1,8 @@
 <!-- Banner principal -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D7,100:00CFFF&height=180&section=header&text=👨‍💻%20Gustavo%20Henrique%20Ribeiro%20dos%20Santos%20👨‍💻&fontSize=28&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D7,100:00CFFF&height=100&section=header&text=💻%20Gustavo%20Henrique%20Ribeiro%20dos%20Santos%20🖱&fontSize=28&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
 <!-- Apresentação -->
-## 💬 Sobre mim
+# 💬 Sobre mim
 Sou um desenvolvedor apaixonado por tecnologia e sempre em busca de aprender algo novo.  
 Atualmente, foco meus estudos e projetos em **C#**, **.NET**, **HTML** e **CSS**, criando soluções eficientes e bem estruturadas para web e desktop.
 
@@ -17,12 +17,13 @@ Atualmente, foco meus estudos e projetos em **C#**, **.NET**, **HTML** e **CSS**
 
 <div align="center">
 
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white)
+[![C#](https://skillicons.dev/icons?i=cs)](https://skillicons.dev)
+[![.NET](https://skillicons.dev/icons?i=dotnet)](https://skillicons.dev)
+[![HTML5](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
+[![CSS3](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
+[![Visual Studio](https://skillicons.dev/icons?i=visualstudio)](https://skillicons.dev)
+[![VS Code](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
+
 
 </div>
 
@@ -32,8 +33,8 @@ Atualmente, foco meus estudos e projetos em **C#**, **.NET**, **HTML** e **CSS**
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&langs_count=7&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavoTIwaldesa&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoTIwaldesa&layout=compact&langs_count=7&theme=dark"/>
 
 </div>
 
@@ -49,15 +50,7 @@ Atualmente, foco meus estudos e projetos em **C#**, **.NET**, **HTML** e **CSS**
 
 ---
 
-## ✨ “Código limpo é aquele que você tem orgulho de mostrar.”
+<img width="100%" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 
-<div align="center">
-  
-  <img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO_AQUI&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15"/>
 
-</div>
 
----
-
-<!-- Rodapé -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00CFFF,100:0078D7&height=120&section=footer"/>
