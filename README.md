@@ -1,5 +1,5 @@
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D7,100:00CFFF&height=100&section=header&text=💻%20Gustavo%20Henrique%20Ribeiro%20dos%20Santos%20🖱&fontSize=37&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D7,100:00CFFF&height=100&section=header&text=💻%20Gustavo%20Henrique%20Ribeiro%20dos%20Santos%20🖱&fontSize=33&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
 # 💬 Sobre mim
 Sou um desenvolvedor apaixonado por tecnologia e sempre em busca de aprender algo novo.  
