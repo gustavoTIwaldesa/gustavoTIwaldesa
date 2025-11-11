@@ -1,52 +1,63 @@
+<!-- Banner principal -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D7,100:00CFFF&height=180&section=header&text=👨‍💻%20Gustavo%20Henrique%20Ribeiro%20dos%20Santos%20👨‍💻&fontSize=28&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
-## Sobre mim
+<!-- Apresentação -->
+## 💬 Sobre mim
+Sou um desenvolvedor apaixonado por tecnologia e sempre em busca de aprender algo novo.  
+Atualmente, foco meus estudos e projetos em **C#**, **.NET**, **HTML** e **CSS**, criando soluções eficientes e bem estruturadas para web e desktop.
 
-- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudando {seu curso} no {faculdade}.
-- 💼 Trabalhando como {stack em que você trabalhar} na {empresa}.
-- 🌱 Aprendendo mais sobre {tecnologias que você está aprendendo}.
+- 💼 Trabalho com **suporte técnico e desenvolvimento** na [Waldesa](https://www.waldesa.com.br)  
+- 💡 Sempre explorando novas tecnologias e boas práticas de código  
+- 📫 Contato: **suporteti4@waldesa.com.br**  
+- 🌐 [Meu LinkedIn](https://www.linkedin.com/in/gustahenriq/)
 
-![](https://komarev.com/ghpvc/?username=gustavoTIwaldesa&color=006bed)
+---
 
-## Minhas Skills
+## 🧠 Tecnologias e Ferramentas
 
-**Aplicações e dados**
+<div align="center">
 
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-![C#](https://img.shields.io/badge/-csharp%20Native-333333?style=flat&logo=cssharp)
-![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest)
-![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white)
 
-**Utilidades**
+</div>
 
-![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
-![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
+---
 
-**DevOps**
+## 📈 Estatísticas do GitHub
 
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-![Bitbucket](https://img.shields.io/badge/-Bitbucket-333333?style=flat&logo=bitbucket)
-![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
-![Travis](https://img.shields.io/badge/-Travis-333333?style=flat&logo=travis)
+<div align="center">
 
-**Ferramentas de desenvolvimento**
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&langs_count=7&theme=tokyonight"/>
 
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
-![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
-![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
-![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-333333?style=flat&logo=adobe-xd&logoColor=007ACC)
+</div>
 
-<br/>
+---
 
-<a href="https://github.com/iuricode" title="Perfil do Iuri">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iuricode&theme=dracula&show_icons=true" />
-</a>
+## 🚀 Projetos em destaque
 
-## Onde me encontrar
+- 🧩 **[Sistema de Chamados .NET](#)** — Gerenciamento de suporte técnico com interface moderna  
+- 🌐 **[Portfólio HTML/CSS](#)** — Layout responsivo e estilizado com boas práticas de front-end  
+- 💻 **[Automação C#](#)** — Scripts e ferramentas para otimizar tarefas do dia a dia  
 
-[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](LINK-DO-SEU-LINKEDIN)
-[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:SEU-EMAIL)
-[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](LINK-DO-SEU-GITHUB)
+> *(Adicione os links reais dos seus repositórios acima)*
+
+---
+
+## ✨ “Código limpo é aquele que você tem orgulho de mostrar.”
+
+<div align="center">
+  
+  <img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO_AQUI&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15"/>
+
+</div>
+
+---
+
+<!-- Rodapé -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00CFFF,100:0078D7&height=120&section=footer"/>
