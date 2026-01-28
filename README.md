@@ -1,55 +1,48 @@
+<div style="display: inline-block">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D7,100:00CFFF&height=100&section=header&text=💻%20Gustavo%20Henrique%20Ribeiro%20dos%20Santos%20🖱&fontSize=33&fontColor=fff&animation=twinkling&fontAlignY=35"/>
-
-# 💬 Sobre mim
-Sou um desenvolvedor apaixonado por tecnologia e sempre em busca de aprender algo novo.  
-Atualmente, foco meus estudos e projetos em **C#**, **.NET**, **HTML** e **CSS**, criando soluções eficientes e bem estruturadas para web e desktop.
-
-- 💼 Trabalho com **suporte técnico e desenvolvimento** na [Waldesa](https://www.waldesa.com.br)  
-- 💡 Sempre explorando novas tecnologias e boas práticas de código  
-- 📫 Contato: **suporteti4@waldesa.com.br**  
-- 🌐 [Meu LinkedIn](https://www.linkedin.com/in/gustahenriq/)
-
----
-
-## 🧠 Tecnologias e Ferramentas
-
-<div align="center">
-
-[![C#](https://skillicons.dev/icons?i=cs)](https://skillicons.dev)
-[![.NET](https://skillicons.dev/icons?i=dotnet)](https://skillicons.dev)
-[![HTML5](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
-[![CSS3](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
-[![Visual Studio](https://skillicons.dev/icons?i=visualstudio)](https://skillicons.dev)
-[![VS Code](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
-
+# 💬*Olá, me chamo Gustavo Henrique* <img align="center" alt="Android" height="400" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" />
+          
 
 </div>
+          
+### 💭 *Sobre mim*
+**`Desenvolvedor Web`**
+
+
+  *Atualmente atuo na Empresa [Waldesa](https://waldesa.com.br) como Auxiliar de Suporte Técnico de Informática,  
+Com Foco em estudos e projetos em **C#**, **.NET**, **HTML** e **CSS**, criando soluções eficientes e bem estruturadas para web e desktop.
+Dei auxilio a projetos dentro da Empresa Com o [ Projeto-PDF-csharp-Automatizando-Processo-na-Empresa](https://github.com/gustavohenr1q/Projeto-PDF-csharp-Automatizando-Processo-na-Empresa).*
+
+ <a href="https://www.linkedin.com/in/gustahenr1q/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
+---
+### 📌 - *Projetos* -
+
+- 🍔 **[Responsive App Fast Food .NET MAUI](https://github.com/gustavohenr1q/Projeto-FastFood-.NET-MAUI-App)** - Aplicativo que Simula um Pedido de Fast Food
+- 🧾 **[Automação PDF iTextSharp .NET](https://github.com/gustavohenr1q/Projeto-PDF-csharp-Automatizando-Processo-na-Empresa)** — Gerador de Relatórios Corporativos (Waldesa)
 
 ---
 
-## 📈 Estatísticas do GitHub
-
+### 👨‍💻 - *Linguagens em Desenvolvimento* -
+  
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavoTIwaldesa&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoTIwaldesa&layout=compact&langs_count=7&theme=dark"/>
+ <img align="center" alt="DOTNET" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original.svg">
+ <img align="center" alt="CSS" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+ <img align="center" alt="HTML" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+ <img align="center" alt="Csharp" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 
-</div>
-
+ </div>
+ 
 ---
 
-## 🚀 Projetos em destaque
+  ### 🛠 - *Ferramentas* -
 
-- 🧩 **[Sistema de Chamados .NET](#)** — Gerenciamento de suporte técnico com interface moderna  
-- 🌐 **[Portfólio HTML/CSS](#)** — Layout responsivo e estilizado com boas práticas de front-end  
-- 💻 **[Automação C#](#)** — Scripts e ferramentas para otimizar tarefas do dia a dia  
-
-> *(Adicione os links reais dos seus repositórios acima)*
+   <div align="center">
+   
+   <img align="center" alt="VSCODE" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg">
+   <img align="center" alt="VISUALSTUDIO" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg">
+   
+   </div>
 
 ---
-
-<img width="100%" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-
-
-
