@@ -1,48 +1,72 @@
-<div style="display: inline-block">
+<div align="center">
 
-# 💬*Olá, me chamo Gustavo Henrique* <img align="center" alt="Android" height="400" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" />
-          
+<img 
+  src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" 
+  width="120"
+/>
+
+<h1><i>💬Olá, me chamo Gustavo Henrique</i></h1>
 
 </div>
+
+<div align="center"> 
           
-### 💭 *Sobre mim*
-**`Desenvolvedor Web`**
+<h3><i>- Sobre mim -<i><h3>
+          
+</div>
 
 
-  *Atualmente atuo na Empresa [Waldesa](https://waldesa.com.br) como Auxiliar de Suporte Técnico de Informática,  
-Com Foco em estudos e projetos em **C#**, **.NET**, **HTML** e **CSS**, criando soluções eficientes e bem estruturadas para web e desktop.
-Dei auxilio a projetos dentro da Empresa Com o [ Projeto-PDF-csharp-Automatizando-Processo-na-Empresa](https://github.com/gustavohenr1q/Projeto-PDF-csharp-Automatizando-Processo-na-Empresa).*
+`Desenvolvedor Web`
 
- <a href="https://www.linkedin.com/in/gustahenr1q/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
+  *Atualmente colaboro na Empresa [Waldesa](https://waldesa.com.br) como Auxiliar de Suporte Técnico de Informática, com Foco em estudos e projetos em **C#**, **.NET**, **HTML** e **CSS**, criando soluções eficientes e bem estruturadas para web e desktop.*
+  Dei auxilio a projetos dentro da Empresa Com o [ Projeto-PDF-csharp-Automatizando-Processo-na-Empresa](https://github.com/gustavohenr1q/Projeto-PDF-csharp-Automatizando-Processo-na-Empresa).
+
+*Estou cursando no [Senac](https://www.sp.senac.br/senac-tatuape-cel-luis-americano/cursos-livres/curso-de-assistente-de-desenvolvimento-de-aplicativos-computacionais) (Assistente de Desenvolvimento de Aplicativos Computacionais) livre de um ano.*
+
+<div align="center">
+<a href="https://www.linkedin.com/in/gustahenr1q/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
 
 ---
-### 📌 - *Projetos* -
+<div align="center">
+<h3><i>📌 - Meus Projetos -<i><h3>
+</div>
+
 
 - 🍔 **[Responsive App Fast Food .NET MAUI](https://github.com/gustavohenr1q/Projeto-FastFood-.NET-MAUI-App)** - Aplicativo que Simula um Pedido de Fast Food
 - 🧾 **[Automação PDF iTextSharp .NET](https://github.com/gustavohenr1q/Projeto-PDF-csharp-Automatizando-Processo-na-Empresa)** — Gerador de Relatórios Corporativos (Waldesa)
 
 ---
 
-### 👨‍💻 - *Linguagens em Desenvolvimento* -
+<div align="center">
+<h3><i>👨‍💻 - Linguagens Desenvolvidas -<i><h3>
+</div>
   
 <div align="center">
 
- <img align="center" alt="DOTNET" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original.svg">
- <img align="center" alt="CSS" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
- <img align="center" alt="HTML" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
- <img align="center" alt="Csharp" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+ <img src="https://skillicons.dev/icons?i=html,css,cs,dotnet,javascript" />
 
  </div>
  
 ---
 
-  ### 🛠 - *Ferramentas* -
+<div align="center">
+<h3><i>🛠 - Ferramentas -<i><h3>
+</div>
 
    <div align="center">
-   
-   <img align="center" alt="VSCODE" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg">
-   <img align="center" alt="VISUALSTUDIO" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg">
-   
+
+
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio" />
+  
    </div>
+
+---
+<div align="center">
+          
+<img alt="snake-id" src="https://github.com/user-attachments/assets/1327f0a3-1d4c-480b-ba29-9413ff07ac6c">
+
+</div>
 
 ---
