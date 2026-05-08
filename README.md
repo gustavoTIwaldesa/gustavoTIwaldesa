@@ -19,7 +19,7 @@
 `Desenvolvedor Web`
 
 
-  *Atualmente colaboro na Empresa [Waldesa](https://waldesa.com.br) como Auxiliar de Suporte Técnico de Informática, com Foco em estudos e projetos em **C#**, **.NET**, **HTML** e **CSS**, criando soluções eficientes e bem estruturadas para web e desktop.*
+  *Atualmente colaboro como Auxiliar de Suporte Técnico de Informática, com em projetos em **C#**, **.NET**, **HTML** e **CSS**, criando soluções eficientes e bem estruturadas para web e desktop.*
   Dei auxilio a projetos dentro da Empresa Com o [ Projeto-PDF-csharp-Automatizando-Processo-na-Empresa](https://github.com/gustavohenr1q/Projeto-PDF-csharp-Automatizando-Processo-na-Empresa).
 
 *Estou cursando no [Senac](https://www.sp.senac.br/senac-tatuape-cel-luis-americano/cursos-livres/curso-de-assistente-de-desenvolvimento-de-aplicativos-computacionais) (Assistente de Desenvolvimento de Aplicativos Computacionais) livre de um ano.*
